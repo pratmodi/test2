@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\Prateek Modi\Documents\Jan 2019 Workspace\Core Java Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3846438562.index
+\JunitPractice\src\main\resources
+C:\Users\Prateek Modi\Documents\Jan 2019 Workspace\Core Java Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3148824482.index
+\stanford-corenlp\src
+C:\Users\Prateek Modi\Documents\Jan 2019 Workspace\Core Java Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2374043238.index
+\stanford-corenlp\src
+C:\Users\Prateek Modi\Documents\Jan 2019 Workspace\Core Java Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1113237519.index
+\stanford-corenlp\src
+C:\Users\Prateek Modi\Documents\Jan 2019 Workspace\Core Java Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3626349403.index
+\stanford-corenlp\src

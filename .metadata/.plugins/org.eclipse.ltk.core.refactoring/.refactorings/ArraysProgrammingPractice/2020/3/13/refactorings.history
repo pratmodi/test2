@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.pratmodi.reversearray&apos; to &apos;com.pratmodi.reversearrayorstring&apos;&#x0D;&#x0A;- Original project: &apos;ArraysProgrammingPractice&apos;&#x0D;&#x0A;- Original element: &apos;ArraysProgrammingPractice/src/com.pratmodi.reversearray&apos;&#x0D;&#x0A;- Renamed element: &apos;ArraysProgrammingPractice/src/com.pratmodi.reversearrayorstring&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.pratmodi.reversearray&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.pratmodi.reversearray" name="com.pratmodi.reversearrayorstring" qualified="false" references="true" stamp="1585298155764" textual="false" version="1.0"/>
+</session>

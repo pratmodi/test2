@@ -1,0 +1,10 @@
+package com.pratmodi.inheritance;
+
+public class Derived {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

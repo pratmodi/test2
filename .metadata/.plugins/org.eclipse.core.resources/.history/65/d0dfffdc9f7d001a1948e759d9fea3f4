@@ -1,0 +1,5 @@
+package com.pratmodi.inheritance;
+
+public class Base {
+	final void foo() {} 
+}

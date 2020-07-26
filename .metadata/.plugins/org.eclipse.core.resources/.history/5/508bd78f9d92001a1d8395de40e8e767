@@ -1,0 +1,26 @@
+package com.pratmodi.objectpooling;
+
+public class XmlParser<E, T> implements Parser<E, T> {
+
+	@Override
+	public void parse(E elementToBeParsed, T result) {
+		try {
+			System.out.println("["+Thread.currentThread().getName()+"]");
+		}
+	}
+
+	@Override
+	public boolean isValid() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void reset() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+}

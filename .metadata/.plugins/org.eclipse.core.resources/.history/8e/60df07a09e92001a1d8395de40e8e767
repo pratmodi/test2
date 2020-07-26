@@ -1,0 +1,7 @@
+package com.pratmodi.objectpooling;
+
+import org.apache.commons.pool2.impl.GenericObjectPool;
+
+public class ParserPool<E, T> extends GenericObjectPool<T>{
+
+}

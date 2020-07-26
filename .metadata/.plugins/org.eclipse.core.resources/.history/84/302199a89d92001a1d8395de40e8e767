@@ -1,0 +1,32 @@
+package com.pratmodi.objectpooling;
+
+public class XmlParser<E, T> implements Parser<E, T> {
+
+	Exception exception;
+	
+	@Override
+	public void parse(E elementToBeParsed, T result) {
+		try {
+			System.out.println("["+Thread.currentThread().getName()+"]");
+		}catch (Exception e) {
+			this.exception = e;
+			e.printStackTrace(System.err);
+			throw e;
+		}
+	}
+
+	@Override
+	public boolean isValid() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void reset() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+}

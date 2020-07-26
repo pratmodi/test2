@@ -1,0 +1,9 @@
+package com.pratmodi.objectpooling;
+
+import org.apache.commons.pool2.BasePooledObjectFactory;
+
+public class ParserFactory<E, T> extends BasePooledObjectFactory<T> {
+
+	
+	
+}

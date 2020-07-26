@@ -1,0 +1,5 @@
+package com.pratmodi.objectpooling;
+
+public abstract class XmlParser<E, T> implements Parser<E, T> {
+
+}

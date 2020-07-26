@@ -1,0 +1,12 @@
+package com.pratmodi.simple;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+
+		DataClass d = new DataClass();
+		System.out.println(d.getMessage("HelloWorld", 1));
+		
+	}
+
+}

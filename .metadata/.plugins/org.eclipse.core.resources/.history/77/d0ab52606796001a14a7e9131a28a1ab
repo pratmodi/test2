@@ -1,0 +1,13 @@
+package com.pratmodi.esexample;
+
+public class Tutorial1 {
+
+	public static void main(String[] args) {
+
+		Settings settings = Settings.builder().put("cluster.name", "mano_cluster").build();
+        TransportClient client = new PreBuiltTransportClient(settings)
+                .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("10.32.140.142"),9302));
+		
+	}
+
+}
